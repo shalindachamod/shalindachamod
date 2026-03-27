@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Shalinda Chamod! 👋
 
-<!--
-**shalindachamod/shalindachamod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Software Enthusiast & Learner
 
-Here are some ideas to get you started:
+I am passionate about technology and currently exploring the world of GitHub and Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+
+---
+
+### 📬 Connect with me
+[![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](ඔයාගේ_লিঙ্কඩ්_ඉන්_ලින්ක්_එක](https://www.linkedin.com/in/shalinda-chamod-452a23385/?skipRedirect=true))
+[![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](ඔයාගේ_ෆේස්බුක්_ලින්ක්_එක](https://www.facebook.com/shalinda.chamod.2025))
+
+---
+
+### 💡 Daily Motivation
+> *Fetching a new quote...* (Coming soon with GitHub Actions!)
