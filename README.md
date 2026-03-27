@@ -14,8 +14,15 @@ I am passionate about technology and currently exploring the world of GitHub and
 ---
 
 ### 📬 Connect with me
-[![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalinda-chamod-452a23385/?skipRedirect=true))
-[![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/shalinda.chamod.2025))
+---
+<a href="[ඔයාගේ_ලිঙ্কඩ්_ඉන්_ලින්ක්_එක](https://www.linkedin.com/in/shalinda-chamod-452a23385/?skipRedirect=true)" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="[ඔයාගේ_ෆේස්බුක්_ලින්ක්_එක](https://www.facebook.com/shalinda.chamod.2025)" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+
+---
 
 ---
 
