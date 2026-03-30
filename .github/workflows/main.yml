@@ -1,0 +1,33 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    # මේකෙන් දිනපතා ලංකාවේ වෙලාවෙන් පාන්දර 5.30 ට විතර run වෙනවා (UTC 00:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # ඔබට අවශ්‍ය වෙලාවක manual run කරන්නත් පුළුවන්
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run update script
+        run: python update_quote.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated daily motivation quote" || exit 0
+          git push
