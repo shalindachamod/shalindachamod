@@ -51,7 +51,3 @@ I am passionate about technology and currently exploring the world of GitHub and
 ---
 
 
-
-### 💡 Daily Motivation
-
-> *Fetching a new quote...* (Coming soon with GitHub Actions!)
